@@ -26,3 +26,11 @@ function getComputerChoice(){
 
 // const x = getComputerChoice();
 // console.log(x);
+
+function getHumanChoice(){
+    let answer = prompt("Your choice: ");
+    return answer;
+}
+
+// const y = getHumanChoice();
+// console.log(y);
